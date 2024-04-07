@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Rishabh Srivastava</h1>
-<h3 align="center">Web Developer And Competitive Programmer</h3>
+### <div align="center"><h1> Hi there 👋💻</h1></div>  
+### <div align="center"> I'm <h1> Rishabh Srivastava, </h1>Web Developer And Competitive Programmer👨‍💻</div>  
+  <br/>
 
 - 🌱 I’m currently doing **Web Development and Competitive Programming.**
 
