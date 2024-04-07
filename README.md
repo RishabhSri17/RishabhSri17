@@ -7,7 +7,7 @@
 - 📫 How to reach me **rishabhdav76@gmail.com**
 
 </br>
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="50%">
 
 
