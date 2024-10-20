@@ -71,7 +71,7 @@
     </a>
 
     <a href="https://codeforces.com/profile/rishabh_sri17" target="_blank">
-      <img src="[https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png](https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png)" width="20%" alt="codeforces" style="margin: 10px;" />
+      <img src="https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png" width="20%" alt="codeforces" style="margin: 10px;" />
     </a>  
   </div>  
   <br/>
