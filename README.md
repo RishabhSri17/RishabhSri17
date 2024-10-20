@@ -69,7 +69,6 @@
     <a href="https://codechef.com/users/rishabhsri17" target="_blank">
       <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="20%" alt="codechef" style="margin: 10px;" />
     </a>
-
     <a href="https://codeforces.com/profile/rishabh_sri17" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Codeforces_logo.svg/120px-Codeforces_logo.svg.png" width="20%" alt="codeforces" style="margin: 10px;" />
     </a>
