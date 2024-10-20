@@ -12,6 +12,8 @@
 
   <br/>
 
+  [![An image of @rishabhsri17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhsri17)](https://holopin.io/@rishabhsri17)
+
   <h2 style="font-size:28px; color:#444;">My Skill Set</h2>
 
   <table style="width:100%; text-align:center;">
